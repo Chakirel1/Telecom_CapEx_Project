@@ -1,0 +1,14 @@
+
+pandas
+numpy
+scipy
+statsmodels
+seaborn
+matplotlib
+plotly
+folium
+streamlit
+streamlit-folium
+mkdocs
+mkdocs-material
+pymdown-extensions

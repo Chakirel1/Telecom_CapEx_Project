@@ -1,0 +1,22 @@
+site_name: Dashboard Télécom Maroc & Suivi CapEx
+site_description: Documentation technique de l'Analyseur de Trafic de Données et de Surveillance Réseau au Maroc.
+site_author: Chakir El Brahmi
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+
+markdown_extensions:
+  - pymdownx.superfences
+
+nav:
+  - Accueil: index.md
+  - Guide d'Installation: guide.md
+  - Architecture Technique: technical_reference.md
