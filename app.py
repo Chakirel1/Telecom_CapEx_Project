@@ -108,7 +108,7 @@ with st.sidebar:
     st.markdown("### Navigation")
     vue = st.radio(
         "Navigation",
-        [" Tableau de bord", "Carte des antennes", " Prévisions trafic"],
+        ["Tableau de bord", "Carte des antennes", " Prévisions trafic"],
         label_visibility="collapsed"
     )
 
